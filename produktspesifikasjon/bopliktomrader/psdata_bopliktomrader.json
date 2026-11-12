@@ -106,9 +106,16 @@
     },
     {
       "specificationScope": {
-        "scopeIdentification": "bopliktsområder",
+        "scopeIdentification": "bopliktområder dele ut filer",
         "level": "dataset",
         "levelDescription": "Datamodell (SOSI UML (XMI))"
+      }
+    },
+    {
+      "specificationScope": {
+        "scopeIdentification": "bopliktsområder innlesing",
+        "level": "dataset",
+        "levelDescription": "For data inn fra kommunene"
       }
     }
   ],
@@ -171,7 +178,7 @@
     "om_produktet": 275,
     "formaal": 29,
     "bruksomraade": 59,
-    "omfang": 28,
+    "omfang": 39,
     "datainnhold_og_struktur": 0,
     "referansesystem": 0,
     "datakvalitet": 10,
@@ -181,7 +188,7 @@
     "leveranse": 8,
     "metadata": 12,
     "tilleggsinformasjon": 87,
-    "datamodell": 430
+    "datamodell": 1277
   },
   "specificationContact": "Landbruksdirektoratet, [vibeke.godal@landbruksdirektoratet.no](mailto:vibeke.godal@landbruksdirektoratet.no)"
 }
