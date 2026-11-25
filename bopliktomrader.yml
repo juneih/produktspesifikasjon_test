@@ -3,3 +3,16 @@ output_directory: produktspesifikasjon
 product_slug: bopliktomrader
 updated: '2026-11-12'
 outputs: odcs,xsd,geopackage,jsonschema
+scopes:
+- name: nedsatt-konsesjon-for-områder-med-boplikt-multisurface
+  url: https://sosi.geonorge.no/svn/SOSI/SOSI%20Del%203/Landbruksdirektoratet/Bopliktsomr%c3%a5der_20260101.xml
+  generator: xmi
+  description: Med multisurface, data inn
+  package: EAID_16857EFF_0E4B_4013_970D_F5ED5850589B
+  package_name: Bopliktområde
+- name: nedsatt-konsesjon-for-områder-med-boplikt-polygoner
+  url: https://sosi.geonorge.no/svn/SOSI/SOSI%20Del%203/Landbruksdirektoratet/Bopliktsomr%C3%A5der_Innlesing_20260101.xml
+  generator: xmi
+  description: Uten multisurface, data inn
+  package: EAPK_9BA2BD72_23AA_4538_BC50_65E4CFE07271
+  package_name: Bopliktområder innlesing
