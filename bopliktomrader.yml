@@ -16,3 +16,7 @@ scopes:
   description: Uten multisurface, data inn
   package: EAPK_9BA2BD72_23AA_4538_BC50_65E4CFE07271
   package_name: Bopliktområder innlesing
+- name: nedsatt-konsesesjon-for-områder-med-boplikt ogc-features
+  url: https://inndelinger.api.kartverket.no/v1/collections/bopliktomraade
+  generator: ogc_feature_api
+  description: Dele datasettet ut via API
